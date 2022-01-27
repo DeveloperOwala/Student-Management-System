@@ -1,3 +1,2 @@
-# Student-Management-System
-# Student-Management-System
-# Student-Management-System
+Student Management System
+#built using spring boot framework
